@@ -1,0 +1,6 @@
+{
+  "rpc_url": "https://rpc.bubble.network ",
+  "chain_id": 56,
+  "contract_address": "0x...",
+  "wallet_address": "0x..."
+}
